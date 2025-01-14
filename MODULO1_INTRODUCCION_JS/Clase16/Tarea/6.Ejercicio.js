@@ -5,4 +5,4 @@
 
 let bagOfWords = ['hola', 'mundo', 'javascript'];
 let exclamation = bagOfWords.map(word => `¡${word}!`);
-console.log(exclamation);
+console.log(exclamation); // Resultado [ '¡hola!', '¡mundo!', '¡javascript!' ]

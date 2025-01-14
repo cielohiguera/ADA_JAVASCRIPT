@@ -8,4 +8,4 @@ let list = ['Me', 'gusta', 'aprender', 'JavaScript'];
 let sentence = '';
 list.forEach(word => sentence += word + ' ');
 sentence = sentence.trim();
-console.log(sentence); // Resultado Me gusta aprender JavaScriptcd
+console.log(sentence); // Resultado Me gusta aprender JavaScript

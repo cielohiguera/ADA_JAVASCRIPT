@@ -2,8 +2,6 @@
 // Solicita al usuario la cantidad de productos comprados y el precio unitario.
 // Usa una funcion flecha para calcular el total con descuento según la cantidad.
 
-const { describe } = require('node:test');
-
 // Solicitar al usuario los productos y el descuento
 
 const prompt = require('prompt-sync')();

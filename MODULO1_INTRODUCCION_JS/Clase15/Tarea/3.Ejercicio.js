@@ -12,4 +12,6 @@ console.log("Después llega un Hamster el cual deberá ser atendido con priorida
 // Después llega un Hamster el cual deberá ser atendido con prioridad [ 'Hamster', 'Perro', 'Gato', 'Conejo' ]
 let mascotaAtendida = mascotasVeterinaria.shift();
 console.log("Mascota atendida:", mascotaAtendida);
+// Mascota atendida: Hamster
 console.log("Fila actualizada:", mascotasVeterinaria);
+// Fila actualizada: [ 'Perro', 'Gato', 'Conejo' ]
