@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "producto": "Vidrio",
+    "cantidad": 6
+  },
+  {
+    "id": 2,
+    "producto": "Madera",
+    "cantidad": 10
+  },
+  {
+    "id": 3,
+    "producto": "Martillo",
+    "cantidad": 10
+  },
+  {
+    "id": 4,
+    "producto": "Clavos",
+    "cantidad": 9
+  },
+  {
+    "id": 5,
+    "producto": "Clavos",
+    "cantidad": 9
+  },
+  {
+    "id": 6,
+    "producto": "Clavos",
+    "cantidad": 9
+  }
+]

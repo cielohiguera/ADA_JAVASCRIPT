@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nombre": "Friends",
+    "temporadas": 10,
+    "temporada": 6
+  },
+  {
+    "id": 2,
+    "nombre": "Friends",
+    "temporadas": 10
+  },
+  {
+    "id": 3,
+    "nombre": "Friends",
+    "temporadas": 10
+  }
+]
