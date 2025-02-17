@@ -8,7 +8,7 @@
 
 const net = require('net')
 
-// Ejercicio 10: Cliente que detecta pérdida de conexión
+// Cliente que detecta pérdida de conexión
 let timeout = setTimeout(() => {
     console.log('No hay datos del servidor, cerrando conexión');
     client.end();
