@@ -1,0 +1,5 @@
+[
+    {"id": 1, "titulo": "Los juegos del Hambre", "disponibilidad": "Si", "anio": 2008},
+    {"id": 2, "titulo": "Harry Potter", "disponibilidad": "No", "anio": 1999},
+    {"id": 3, "titulo": "Principito", "disponibilidad": "Sí", "anio": 1998}
+]
