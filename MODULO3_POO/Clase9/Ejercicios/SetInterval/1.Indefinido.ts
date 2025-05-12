@@ -8,3 +8,5 @@ const intervalo = setInterval(() => {
     // el intervalo. Por ejemplo, podrías tener alguna condicion externa
     // o un evento que lo detenga, pero en este caso lo dejamos indefinidamente
 }, 1000)
+
+console.log("Intervalo indefinido iniciado");
